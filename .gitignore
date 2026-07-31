@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated data
+outputs/
+logs/
+inputs/
+dataset/
+
+# Model checkpoints
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
